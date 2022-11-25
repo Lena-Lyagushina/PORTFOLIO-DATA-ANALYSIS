@@ -8,12 +8,9 @@
 * ### :heavy_check_mark:[Bank borrower reliability study](https://github.com/Lena-Lyagushina/PORTFOLIO-DATA-ANALYSIS/tree/main/bank%20borrower%20reliability%20study)
 * ### :heavy_check_mark:[Future popular gaming platform](https://github.com/Lena-Lyagushina/PORTFOLIO-DATA-ANALYSIS/tree/main/future%20popular%20gaming%20platform)
 
+
+
+### I'm glad you looked at my projects 
+### :star2: All the best.:star2:
+
 ###  📫 Сontact me: https://t.me/Elena_Lyagushina and lena.lyagushina88@gmail.com
-
-
-
-
-:star2:
-:heavy_check_mark:
-
-[Подробнее о Markdown по ссылке](https://daringfireball.net/projects/markdown/)
