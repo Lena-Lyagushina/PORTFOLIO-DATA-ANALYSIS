@@ -2,7 +2,7 @@
 ### 👀 I’m interested in data analytics especially in the financial and gaming sector.
 ###  🌱 I successfully graduated from Yandex.Practicum in June 2022 with a degree in Data Analyst.
 ###  💞️ Here you can see examples of my independent and educational work.
-* ### :heavy_check_mark: 
+* ### :heavy_check_mark:[Подробнее о Markdown по ссылке]( https://github.com/Lena-Lyagushina/PORTFOLIO-DATA-ANALYSIS/tree/main/Machine%20Learning:%20Churn%20Prediction)
 
 ###  📫 Сontact me: https://t.me/Elena_Lyagushina and lena.lyagushina88@gmail.com
 
