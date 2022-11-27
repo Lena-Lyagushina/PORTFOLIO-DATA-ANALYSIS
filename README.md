@@ -10,7 +10,7 @@
 
 
 
-### I'm glad you looked at my projects 
-### :star2: All the best.:star2:
+### Я рада, что Вы посмотрели мои проекты.
+### Всего Вам доброго!
 
-###  📫 Сontact me: https://t.me/Elena_Lyagushina and lena.lyagushina88@gmail.com
+###  Связаться со мной: https://t.me/Elena_Lyagushina и lena.lyagushina88@gmail.com
